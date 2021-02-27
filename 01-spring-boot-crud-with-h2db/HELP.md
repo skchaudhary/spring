@@ -25,6 +25,9 @@ just need to import in your postman, run the application and test the api.
 
 All codes are very simple and property file having comments for property attributes.
 
+Note:
+data.sql and schema.sql file automatically detected by the spring and run these script on startup of the application.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
