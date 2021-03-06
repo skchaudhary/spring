@@ -1,5 +1,5 @@
 # spring
-Spring repo which contains the several project in which people phase the problem.
+Spring repo which contains the several project in which learner phase the problem.
 
 Every project in this repo has seperate HELP.md file to describe the project. So before starting can go through and start practicing.
 
